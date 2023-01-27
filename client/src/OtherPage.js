@@ -6,7 +6,7 @@ export default () => {
     <div>
       pgMultifib
       Patryk Grzywacz
-      I2S 2.1/2
+      IMST 2.1/2
       <Link to="/">Go back home</Link>
     </div>
   );
